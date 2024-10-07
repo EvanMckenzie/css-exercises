@@ -1,0 +1,14 @@
+.adjust-font {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.first-element {
+    background-color: #000000;
+    font: #ffffff;
+}
+
+.second-element {
+    background-color: #ffff00;
+    font: #000000;
+}
